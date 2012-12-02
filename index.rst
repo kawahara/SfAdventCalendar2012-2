@@ -15,7 +15,7 @@ Symfony Advent Calendar JP 2012 - Day 2
 
 こんにちは。 `@ooharabucyou`_ こと川原です。
 
-`Symfony Advent Calendar JP 2012 <http://d.hatena.ne.jp/brtRiver/20121201/1354336023>`_ の2日目です。
+`Symfony Advent Calendar JP 2012 <http://www.adventar.org/calendars/24>`_ の2日目です。
 
 `<-1日目`_ **2日目(今ここ)** `3日目->`_
 
