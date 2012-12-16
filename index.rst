@@ -20,7 +20,7 @@ Symfony Advent Calendar JP 2012 - Day 2
 `<-1日目`_ **2日目(今ここ)** `3日目->`_
 
 .. _`<-1日目`: http://d.hatena.ne.jp/brtRiver/20121201/1354336023
-.. _`3日目->`: http://example.com/
+.. _`3日目->`: http://phpmentors.jp/post/37071280207/ddd
 
 今回は、Symfony Frameowrk についてではなく、 Symfony Framework を形作る要素である
 Component を一つ取り上げます。 Component は、 Symfony2 を形作る一つの要素で
